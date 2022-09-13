@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842325036518",
+    "firebase_url": "https://usedmarket-e5505-default-rtdb.firebaseio.com",
+    "project_id": "usedmarket-e5505",
+    "storage_bucket": "usedmarket-e5505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842325036518:android:3285b0e777028c1a71da27",
+        "android_client_info": {
+          "package_name": "com.example.usedmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842325036518-7cjepkqboq6abbcfq8bv28s38nt3bvlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzWFvZoVtwYZZoB2heKfW2NCKRoKgRA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842325036518-7cjepkqboq6abbcfq8bv28s38nt3bvlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
